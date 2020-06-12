@@ -1,16 +1,16 @@
 {
-    "platform": "Playstation",
-    "account": {
+    "platform": "IOS",
+    "account": {NINJA.HYPER65789
       "deviceID": "",
-      "accountID": "",
-      "secret": ""
+      "accountID": "0bb88643d7bb4f3c84bdb9c38fd32cf5",
+      "secret": "Add drew657890 to play with me on my switch account."
     },
     "cosmetics": {
-      "skin": "Skull Trooper",
-      "backpack": "",
+      "skin": "renegade raider",
+      "backpack": "Black shield",
       "emote": "Floss",
       "emoji": "",
-      "pickaxe": "",
+      "pickaxe": "Merry Mint Axe",
       "pet": ""
     },
     "cosmetics_variants": {
@@ -19,5 +19,5 @@
       "pickaxe": [],
       "pet": []
     },
-    "owners": ["LupusLeaks YT"]
+    "owners": ["Dtpgucci@gmail.com"]
   }
