@@ -1,16 +1,16 @@
 {
-    "platform": "Playstation",
-    "account": {
+    "platform": "Pc",
+    "account": {13.
       "deviceID": "",
-      "accountID": "",
-      "secret": ""
+      "accountID": "0bb88643d7bb4f3c84bdb9c38fd32cf5",
+      "secret": "add me for a gift for real"
     },
     "cosmetics": {
       "skin": "Skull Trooper",
       "backpack": "",
       "emote": "Floss",
       "emoji": "",
-      "pickaxe": "",
+      "pickaxe": "Merry Mint",
       "pet": ""
     },
     "cosmetics_variants": {
